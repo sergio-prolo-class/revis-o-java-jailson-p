@@ -2,12 +2,14 @@
 
 # Exercício 01
     -Concluído    
-'''
 
+```
+$ java Exerc01.java
+Entre com o seu nome:
+Jailson Pedro
 Entre com o ano que nasceu:
 1978
 Entre com o ano atual:
 2025
-jai, possui 47.
-
-'''
+Jailson Pedro, possui 47.
+```
