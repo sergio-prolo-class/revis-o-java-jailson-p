@@ -10,3 +10,9 @@ Entre com o ano que nasceu: 1978
 Entre com o ano atual: 2025
 Jailson Pedro, possui 47.
 ```
+
+# Exercício 02
+## Incompleto, preciso testar as funções teto, piso e formatar a saída
+```
+
+```
